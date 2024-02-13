@@ -1,0 +1,56 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DoyaAamal" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/secoundary_color</item>
+
+    </style>
+
+    <style name="Theme.DoyaAamal" parent="Base.Theme.DoyaAamal" />
+
+
+    <style name="TEXT_COLOR">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TX_COLOR">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="BUTTON_ITEMS">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/main_color</item>
+    </style>
+
+    <style name="CARD_ITEM">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="MAIN_BG">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="ICON_COLOR">
+        <item name="android:tint">@color/white</item>
+    </style>
+
+    <style name="ICON">
+        <item name="android:src">@drawable/share_black</item>
+    </style>
+
+    <style name="ICON_COPY">
+        <item name="android:src">@drawable/copy_black</item>
+    </style>
+
+
+    <style name="ICON_LOVE">
+        <item name="android:src">@drawable/love_black</item>
+    </style>
+
+
+
+
+
+
+</resources>

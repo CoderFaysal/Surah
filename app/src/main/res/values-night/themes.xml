@@ -1,0 +1,56 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DoyaAamal" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">#00040E</item>
+    </style>
+
+
+
+    <style name="TEXT_COLOR">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+    <style name="BUTTON_ITEMS">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">#000513</item>
+    </style>
+
+
+    <style name="TX_COLOR">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="CARD_ITEM">
+        <item name="android:background">#000513</item>
+    </style>
+
+    <style name="MAIN_BG">
+        <item name="android:background">@color/black</item>
+    </style>
+
+
+    <style name="ICON_COLOR">
+        <item name="android:tint">@color/white</item>
+    </style>
+
+
+    <style name="ICON">
+        <item name="android:src">@drawable/share_white</item>
+    </style>
+
+
+    <style name="ICON_COPY">
+        <item name="android:src">@drawable/copy_white</item>
+    </style>
+
+
+    <style name="ICON_LOVE">
+        <item name="android:src">@drawable/love_white</item>
+    </style>
+
+
+
+</resources>
